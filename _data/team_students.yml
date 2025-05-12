@@ -1,15 +1,28 @@
-- name: <a href="https://scholar.google.com.hk/citations?user=fCzlLE4AAAAJ&hl=zh-CN" target="_blank">Weihao Yu</a>
-  photo: WeihaoYu.jpg
-  info: PhD Student at CUHK (_co-advise with Prof. Yixuan Yuan_), since Jan 2024
+- name: <a href="https://scholar.google.cz/citations?user=-pqgxXsAAAAJ&hl=zh-CN" target="_blank">Yue Wang</a>
+  photo: YueWang.jpg
+  info: PhD Student at HKBU, since Sep 2025
   # email: xxx@eng.ox.ac.uk
-  number_educ: 2
-  education1: M.S. Shanghai Jiao Tong University
-  education2: B.S. Shanghai Jiao Tong University
+  number_educ: 1
+  education1: B.S. Shen Zhen University
 
-- name: <a href="https://dblp.org/pid/358/1060.html" target="_blank">Boyun Zheng</a>
-  photo:  BoyunZheng.jpg
-  info: PhD Student at CUHK (_co-advise with Prof. Yixuan Yuan_), since Aug 2024
+- name: <a href="https://scholar.google.com.sg/citations?user=D-IHI1kAAAAJ&hl=zh-CN" target="_blank">Rongkun Zhu</a>
+  photo:  RongkunZhu.jpg
+  info: PhD Student at HKBU, since Sep 2025
+  # email: xxx@eng.ox.ac.uk
+  number_educ: 1
+  education1: B.S. Xidian University
+
+- name: <a href="https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN" target="_blank">Jiaxuan Jiang</a>
+  photo:  JiaxuanJiang.jpg
+  info: RA at HKBU (PhD Student at Lanzhou University), since Jun 2025
   # email: xxx@eng.ox.ac.uk
   number_educ: 2
-  education1: M.S. University of Chinese Academy of Sciences
-  education2: B.S. Huazhong University of Science and Technology
+  # education1: M.S. Lanzhou University
+  # education2: B.S. Lanzhou University
+
+- name: Huihan Wang</a>
+  photo:  HuihanWang.jpg
+  info: RA at HKBU (Undergraduate Student at Beihang University), since Aug 2025
+  # email: xxx@eng.ox.ac.uk
+  number_educ: 1
+  education1: B.S. Beihang University
