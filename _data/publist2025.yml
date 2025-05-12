@@ -1,6 +1,6 @@
 - title: "<a href=\"https://arxiv.org/abs/2503.16976" target=\"_blank\"><strong>GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</strong></a>" [<a href=\"https://github.com/CUHK-AIM-Group/GeoT" target=\"_blank\">code</a>]
   authors: "Weihao Yu, **Xiaoqing Guo**, Chenxin Li, Yifan Liu, Yixuan Yuan."
-  display: "_Information Processing in Medical Imaging_ (**IPMI 2025**), Kos Island."
+  display: "_Information Processing in Medical Imaging_ (**IPMI 2025**), Kos Island." 
   highlight: 0
 
 - title: "<a href=\"" target=\"_blank\"><strong>Decoupled Representation Learning for Difference Medical Report Generation</strong></a> 
