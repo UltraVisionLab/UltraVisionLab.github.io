@@ -59,6 +59,16 @@ In this page, you can find the our publications in [2025](#2025),  [2024](#2024)
 
 ## Full List of publications -->
 
+## 2025
+
+{% for publi in site.data.publist2025 %}
+
+  {{ forloop.index }}. {{ publi.title }} <br />
+  {{ publi.authors }} <br />
+  {{ publi.display }}
+
+{% endfor %}
+
 ## 2024
 
 {% for publi in site.data.publist2024 %}
