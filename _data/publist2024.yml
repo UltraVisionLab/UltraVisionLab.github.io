@@ -25,7 +25,7 @@
   title1: "<a href=\"https://arxiv.org/abs/2408.03761\" target=\"_blank\"><strong>MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</strong></a>"
   image: mmsummary.png
   description: We present the first automated multimodal summary generation system, MMSummary, for medical imaging video, particularly with a focus on fetal ultrasound analysis. Imitating the examination process performed by a human sonographer, MMSummary is designed as a three-stage pipeline, progressing from keyframe detection to keyframe captioning and finally anatomy segmentation and measurement. This system provides comprehensive summaries for fetal ultrasound examinations to enhance clinical workflow efficiency (reduce scanning time by approximately 1/3%).
-  authors: "**Xiaoqing Guo**, Qianhui Men, Alison Noble."
+  authors: "**Xiaoqing Guo†**, Qianhui Men, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
   highlight: 1
 
