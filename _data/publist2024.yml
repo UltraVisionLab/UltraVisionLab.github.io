@@ -43,7 +43,7 @@
   description: We propose an anomaly detection framework, IterMask2, designed to identify unexpected inputs for enhanced safeguards. We also introduce an iterative approach to reveal the AI model’s decision-making process, helping clinicians understand the model’s outcomes. Clinicians can review the generated results and select the ones they find most accurate. With this human-in-the-loop approach, the model’s performance is significantly improved, making it more effective for deployment in real clinical settings.
   authors: "Ziyun Liang, **Xiaoqing Guo**, Alison Noble, Konstantinos Kamnitsas."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
-  highlight: 1
+  highlight: 0
 
 - title: "<a href=\"https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Diversified_and_Personalized_Multi-rater_Medical_Image_Segmentation_CVPR_2024_paper.html\" target=\"_blank\"><strong>Diversified and Personalized Multi-rater Medical Image Segmentation</strong></a> [<a href=\"https://github.com/ycwu1997/D-Persona\" target=\"_blank\">code</a>] <strong>(Highlight)</strong>"
   authors: "Yicheng Wu, Xiangde Luo, Zhe Xu, **Xiaoqing Guo**, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai."
