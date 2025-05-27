@@ -11,9 +11,7 @@ permalink: /publications/
 
 In this page, you can find the our publications in [2025](#2025),  [2024](#2024),  [2023](#2023),  [2022](#2022),  [2021](#2021),  [before 2021](#2021), which can also be found in <a href="https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
-<sup>*</sup> indicates equal contribution
-
-<sup>†</sup> indicates corresponding author
+<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates corresponding author
 
 ## Highlights
 
