@@ -17,15 +17,16 @@ In this page, you can find the our publications in [2025](#2025),  [2024](#2024)
 
 ## Highlights
 
+{% assign publist = site.data.publist2025 | concat: site.data.publist2024 %}
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist2024 %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% for publi in publist %}
+  {% if publi.highlight == 1 %}
+   {% assign even_odd = number_printed | modulo: 2 %}
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+   {% if even_odd == 0 %}
+     <div class="row">
+   {% endif %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
