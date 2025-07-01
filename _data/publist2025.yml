@@ -5,7 +5,7 @@
 
 - title: "<a href=\"\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
   authors: "Weihao Yu, **Xiaoqing Guo**, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan."
-  display: "_International Conference on Computer Vision_ (**ICCV 2025**), Honolulu, Hawai’i."
+  display: "_International Conference on Computer Vision_ (**ICCV 2025**), Honolulu, Hawaii."
   highlight: 0
 
 - title: "<a href=\"https://arxiv.org/abs/2503.16976\" target=\"_blank\"><strong>GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</strong></a>"
