@@ -24,7 +24,7 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/US.png" alt="Slide 1" />
         </div>
-        <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/noisy_labeled_data.png" alt="Slide 2" />
         </div>
         <div class="item">
@@ -36,7 +36,7 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/scarce_labeled_data.png" alt="Slide 5" />
         </div>       
-         <!-- <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/scarce_labeled_data.png" alt="Slide 6" />
         </div> -->
     </div>
