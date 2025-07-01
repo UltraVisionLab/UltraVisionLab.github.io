@@ -1,3 +1,13 @@
+- title: "<a href=\"\" target=\"_blank\"><strong>Sonomate: Visually grounded language model for fetal ultrasound understanding and human interaction</strong></a>"
+  authors: "**Xiaoqing Guo†**, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble."
+  display: "_Nature Biomedical Engineering_ (**NBME**), 2025."
+  highlight: 0
+
+- title: "<a href=\"\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
+  authors: "Weihao Yu, **Xiaoqing Guo**, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan."
+  display: "_International Conference on Computer Vision_ (**ICCV 2025**), Honolulu, Hawai’i."
+  highlight: 0
+
 - title: "<a href=\"https://arxiv.org/abs/2503.16976\" target=\"_blank\"><strong>GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</strong></a>"
   authors: "Weihao Yu, **Xiaoqing Guo**, Chenxin Li, Yifan Liu, Yixuan Yuan."
   display: "_Information Processing in Medical Imaging_ (**IPMI 2025**), Kos Island."
