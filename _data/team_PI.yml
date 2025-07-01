@@ -1,8 +1,8 @@
 - name: <a href="https://guo-xiaoqing.github.io/" target="_blank">Xiaoqing Guo</a>
   photo: XiaoqingGUO.jpg
   info: Assistant professor at HKBU, since Jan 2025   Visiting fellow at Oxford, since Jan 2025
-  email: xiaoqing.guo@eng.ox.ac.uk
-  number_educ: 3
-  education1: Postdoc, University of Oxford 
-  education2: Ph.D. City University of Hong Kong 
-  education3: B.S. Beihang University
+  email: xiaoqingguo at hkbu dot edu dot hk
+  # number_educ: 3
+  # education1: Postdoc, University of Oxford 
+  # education2: Ph.D. City University of Hong Kong 
+  # education3: B.S. Beihang University
