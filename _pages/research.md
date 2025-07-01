@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-Jump to [Research](research), [Project](project).  
+Jump to [Research](#research) | [Project](#project)
 
 # Research
 
