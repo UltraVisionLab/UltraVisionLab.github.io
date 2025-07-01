@@ -6,6 +6,8 @@ sitemap: false
 permalink: /research/
 ---
 
+Jump to [Research](research), [Project](project).  
+
 # Research
 
 ### *Learning to Simplify Sonography*
