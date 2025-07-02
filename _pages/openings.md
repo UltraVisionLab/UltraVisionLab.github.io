@@ -16,21 +16,39 @@ permalink: /vacancies
 
 **We are currently accepting applications for PhD, RA, and Internship positions.**
 
-The UltraVision+ Lab in the Department of Computer Science, Hong Kong Baptist University (HKBU) has multiple openings for PhD students, research assistants, and visitors. Our lab is committed to interdisciplinary research at the intersection of AI, medical image analysis, computer vision, ultrasound data, multimodal learning.
+The UltraVision+ Lab in the Department of Computer Science, Hong Kong Baptist University (HKBU) has multiple openings for PhD students, research assistants, and visitors. Our lab is committed to interdisciplinary research at the intersection of AI, medical image analysis, computer vision, ultrasound data, multimodal learning. We welcome passionate and self-motivated individuals to join us in this exciting journey!
 
-We are looking for new group members with passion, talent, and grit!
+### Prospective PhD Student
+We are seeking talented and highly motivated PhD students to join us.
 
-<!-- You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
+* Preferred academic backgrounds including but not limited to CS, EE, BME, Control and Automation, and related areas.
 
-### Applications for PhD and Postdoc positions
-We look for highly motivated students to join us. After rigorous research training, we will support students and researchers for academic exchanges with collaborating labs in Top universities around the world. Preferred academic backgrounds including but not limited to Computer Engineering, Electronic Engineering, Biomedical Engineering, Information Engineering, Control and Automation, and related areas. If you have an interest in joining our lab, please do not hesitate to contact me at xiaoqing dot guo at eng dot ox dot ac dot uk with your CV and a short self-introduction to facilitate our communication.
+* Relevant Research Experience: Previous work in computer vision, medical image analysis, or AI for ultrasound imaging is a plus.
 
-I usually do not have time to answer each message individually, so don't feel discouraged if you don't get a reply. Furthermore, I can only make recommendations for admissions after receiving all the applications.
+* Motivation for Real-world Impact: Passionate about applying AI to solve real healthcare challenges.
+
+* Academic Contributions: Preferably have first-authored publications in top-tier journals and conferences related to the field.
+
+* Problem-Solving and Learning Agility: Strong analytical skills and the ability to quickly learn and adapt to new challenges.
+
+* Technical Proficiency: Skilled in programming languages (Pytorch, Python, etc.).
+
+* Teamwork and Communication: Ability to collaborate effectively in a multidisciplinary environment.
+
+### Application
+
+If you have an interest in joining our lab, please do not hesitate to contact me at xiaoqingguo at hkbu dot edu dot hk with the follows:
+
+* Curriculum Vitae (CV)
+
+* Undergraduate Transcripts
+
+* Supporting Materials: Include any additional documents (such as 1-3 representative publications, academic or research awards, or proof of English proficiency) that further demonstrate your qualifications and research potential.
+
+* 1-Page Research Statement: Summarize your research interests, relevant experience, and future research goals. Explain how your skills and experience align with the selection criteria for this position, using specific examples where possible.
 
 ### Information for Research Assistants
 
-I am hiring research assistant now. If you are interested, please email me with your CV, research papers or project reports that are relevant.
+In addition to PhD positions, we also offer opportunities for research assistants and visiting students. If you are interested, please email me with your CV, research papers or project reports that are relevant. 
 
-### Information for Visiting and Intern Student
-
-I'm happy to work with self-motivated graduate/senior undergraduate students. Gap-year students planning to apply for PhD are also welcomed.
+Note: I usually do not have time to answer each message individually, so don't feel discouraged if you don't get a reply. Furthermore, I can only make recommendations for admissions after receiving all the applications.
