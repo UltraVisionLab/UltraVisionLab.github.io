@@ -9,7 +9,9 @@ permalink: /research/
 
 # Research
 
-Jump to [Research](#research), [Project](#project)
+Jump to [Research](#research-topics), [Project](#project)
+
+## Research Topics
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/US.png){: style="width: 80%; float: center; margin: 10px"}
 
@@ -36,7 +38,7 @@ Accurate ultrasound imaging depends heavily on the operator's ability to correct
 **Relevant Publications:**
 * <a href="https://arxiv.org/abs/2408.09931" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</a> [MICCAI'24]
 
-# Project
+## Project
 
 ### Automatic Ultrasound Video Summarization for Improved Diagnosis with Simplified Scanning Protocols	
 
