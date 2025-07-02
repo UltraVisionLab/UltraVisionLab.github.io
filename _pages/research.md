@@ -9,7 +9,7 @@ permalink: /research/
 
 # Research
 
-Jump to [Research](#research-topics), [Project](#project)
+Jump to [Research Topics](#research-topics), [Project](#project)
 
 ## Research Topics
 
