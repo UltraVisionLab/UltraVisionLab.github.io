@@ -19,10 +19,10 @@
 #   number_educ: 1
 #   education1: B.S. Shenzhen University
 
-# - name: <a href="https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN" target="_blank">Jiaxuan Jiang</a>
-#   photo:  XiaoqingGUO.jpg
-#   info: RA at HKBU, since Jun 2025
-#   # email: xxx@eng.ox.ac.uk
+- name: <a href="https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN" target="_blank">Jiaxuan Jiang</a>
+  photo:  JixuanJiang.jpg
+  info: RA at HKBU, since Jun 2025
+  # email: xxx@eng.ox.ac.uk
 #   number_educ: 2
 #   education1: M.S. Lanzhou University
 #   education2: B.S. Lanzhou University
