@@ -11,9 +11,9 @@ permalink: /research/
 
 Jump to [Research Topics](#research-topics), [Project](#project)
 
-## Research Topics
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/US.png){: style="width: 90%; float: center; margin: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/US.png){: style="width: 100%; float: center; margin: 10px"}
+## Research Topics
 
 ### *AI Assistance for Interpretation and Diagnosis*
 
