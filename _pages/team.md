@@ -77,7 +77,7 @@ Jump to [Principal Investigator (PI)](#principal-investigator), [students](#phd-
 
 
 
-## PhD Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_students %}
 
