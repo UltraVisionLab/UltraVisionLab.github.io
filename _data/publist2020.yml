@@ -32,7 +32,3 @@
   authors: "Yixuan Yuan, Wenjian Qin, **Xiaoqing Guo**, Mark Buyyounouski, Steve Hancock, Bin Han, Lei Xing."
   display: "_IEEE International Symposium on Biomedical Imaging_ (**ISBI 2019**), Venice, Italy."
   highlight: 0
-
-- title: "<a href=\"https://arxiv.org/abs/1711.08608\" target=\"_blank\"><strong>Unsupervised End-to-end Learning for Deformable Medical Image Registration</strong></a>"
-  authors: "Siyuan Shan, Wen Yan, **Xiaoqing Guo**, Eric I Chang, Yubo Fan, Yan Xu."
-  highlight: 0
