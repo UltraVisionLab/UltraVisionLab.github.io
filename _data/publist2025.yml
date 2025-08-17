@@ -8,6 +8,11 @@
   display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2025."
   highlight: 0
 
+- title: "<a href=\"\" target=\"_blank\"><strong>IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR</strong></a>"
+  authors: "Ziyun Liang, **Xiaoqing Guo**, Wentian Xu, Yasin Ibrahim, Natalie Voets, Pieter M Pretorius, Alison Noble, Konstantinos Kamnitsas."
+  display: "_Medical Image Analysis_ (**MedIA**), 2025."
+  highlight: 0
+
 - title: "<a href=\"\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
   authors: "Weihao Yu, **Xiaoqing Guo**, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan."
   display: "_International Conference on Computer Vision_ (**ICCV 2025**), Honolulu, Hawaii."
