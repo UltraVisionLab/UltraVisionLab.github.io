@@ -1,23 +1,23 @@
-# - name: <a href="https://scholar.google.cz/citations?user=-pqgxXsAAAAJ&hl=zh-CN" target="_blank">Yue Wang</a>
-#   photo: XiaoqingGUO.jpg
-#   info: PhD Student, since Sep 2025
+- name: <a href="https://scholar.google.com/citations?hl=zh-CN&user=63XFxHgAAAAJ" target="_blank">Haoxin Chen</a>
+  photo:  Haoxin CHEN.jpg
+  info: PhD Student, since Sep 2025
 #   # email: xxx@eng.ox.ac.uk
 #   number_educ: 1
 #   education1: B.S. Shenzhen University
 
-# - name: <a href="https://scholar.google.com.sg/citations?user=D-IHI1kAAAAJ&hl=zh-CN" target="_blank">Rongkun Zhu</a>
-#   photo:  XiaoqingGUO.jpg
-#   info: PhD Student, since Sep 2025
+- name: <a href="https://scholar.google.cz/citations?user=-pqgxXsAAAAJ&hl=zh-CN" target="_blank">Yue Wang</a>
+  photo: YueWANG.JPG
+  info: PhD Student, since Sep 2025
+#   # email: xxx@eng.ox.ac.uk
+#   number_educ: 1
+#   education1: B.S. Shenzhen University
+
+- name: <a href="https://scholar.google.com/citations?user=D-IHI1kAAAAJ&hl=zh-CN" target="_blank">Rongkun Zhu</a>
+  photo:  RongkunZHU.JPG
+  info: PhD Student, since Sep 2025
 #   # email: xxx@eng.ox.ac.uk
 #   number_educ: 1
 #   education1: B.S. Xidian University
-
-# - name: <a href="" target="_blank">Haoxin Chen</a>
-#   photo:  XiaoqingGUO.jpg
-#   info: PhD Student, since Sep 2025
-#   # email: xxx@eng.ox.ac.uk
-#   number_educ: 1
-#   education1: B.S. Shenzhen University
 
 - name: <a href="https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN" target="_blank">Jiaxuan Jiang</a>
   photo: JiaxuanJiang.jpg
