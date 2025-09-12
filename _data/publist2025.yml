@@ -8,8 +8,8 @@
   display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2025."
   highlight: 0
 
-- title: "<a href=\"https://arxiv.org/abs/2504.04911\" target=\"_blank\"><strong>IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR</strong></a>"
-  authors: "Ziyun Liang, **Xiaoqing Guo**, Wentian Xu, Yasin Ibrahim, Natalie Voets, Pieter M Pretorius, Alison Noble, Konstantinos Kamnitsas."
+- title: "<a href=\"https://www.sciencedirect.com/science/article/pii/S1361841525003093\" target=\"_blank\"><strong>IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR</strong></a>"
+  authors: "Ziyun Liang, **Xiaoqing Guo**, Wentian Xu, Yasin Ibrahim, Natalie Voets, Pieter M Pretorius, Alzheimer’s Disease Neuroimaging Initiative, Alison Noble, Konstantinos Kamnitsas."
   display: "_Medical Image Analysis_ (**MedIA**), 2025."
   highlight: 0
 
