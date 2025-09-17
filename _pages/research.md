@@ -40,6 +40,6 @@ Accurate ultrasound imaging depends heavily on the operator's ability to correct
 
 ## Project
 
-### Automatic Ultrasound Video Summarization for Improved Diagnosis with Simplified Scanning Protocols	
+### *Automatic Ultrasound Video Summarization for Improved Diagnosis with Simplified Scanning Protocols*	
 
 **RGC Early Career Scheme (PI), ECS-22203525**
