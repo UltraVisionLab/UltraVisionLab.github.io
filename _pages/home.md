@@ -29,6 +29,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/U2Bench.png" alt="Slide 3" />
+        </div>       
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/media-miccai-best-paper.png" alt="Slide 4" />
         </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/noisy_labeled_data.png" alt="Slide 2" />
@@ -41,9 +44,6 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/scarce_labeled_data.png" alt="Slide 5" />
-        </div>       
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/scarce_labeled_data.png" alt="Slide 6" />
         </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
