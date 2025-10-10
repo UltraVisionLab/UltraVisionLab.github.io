@@ -14,9 +14,9 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently accepting applications for PhD, RA, and Internship positions.**
+**We are currently accepting applications for PhD positions.**
 
-The UltraVision+ Lab in the Department of Computer Science, Hong Kong Baptist University (HKBU) has multiple openings for PhD students, research assistants, and visitors. Our lab is committed to interdisciplinary research at the intersection of AI, medical image analysis, computer vision, ultrasound data, multimodal learning. We welcome passionate and self-motivated individuals to join us in this exciting journey!
+The UltraVision+ Lab in the Department of Computer Science, Hong Kong Baptist University (HKBU) has multiple openings for PhD students. Our lab is committed to interdisciplinary research at the intersection of AI, medical image analysis, computer vision, ultrasound data, multimodal learning. We welcome passionate and self-motivated individuals to join us in this exciting journey!
 
 ### Prospective PhD Student
 We are seeking talented and highly motivated PhD students to join us.
@@ -47,7 +47,7 @@ If you have an interest in joining our lab, please do not hesitate to contact me
 
 * 1-Page Research Statement: Summarize your research interests, relevant experience, and future research goals. Explain how your skills and experience align with the selection criteria for this position, using specific examples where possible.
 
-I will review all applications after October.
+Note: I will review all HKPFS applications after October and regular application after March.
 
 <!-- ### Information for Research Assistants -->
 
