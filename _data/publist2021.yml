@@ -9,7 +9,7 @@
   highlight: 0
 
 - title: "<a href=\"https://ieeexplore.ieee.org/document/9339901\" target=\"_blank\"><strong>Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction</strong></a> [<a href=\"https://github.com/franciszchen/SRD-SAI\" target=\"_blank\">code</a>]"
-  authors: "**Zhen Chen**, **Xiaoqing Guo**, Peter Y. M. Woo, Yixuan Yuan."
+  authors: "Zhen Chen, **Xiaoqing Guo**, Peter Y. M. Woo, Yixuan Yuan."
   display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2021."
   highlight: 0
 
