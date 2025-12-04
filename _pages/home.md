@@ -67,7 +67,7 @@ Welcome to **UltraVision+ Lab** at the Department of Computer Science of Hong Ko
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icon_UltraVision.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu_cs.svg" style="width: 230px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu.svg" style="width: 230px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icon_UltraVision.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu_cs.svg" style="width: 235px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hkbu.svg" style="width: 235px">
 </figure>
