@@ -11,13 +11,11 @@ permalink: /pictures/
 
 #### Gallery
 
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
+## CLEAR WATER BAY COUNTRY PARK 2025.12.15
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-1.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-1.jpg" width="40%">
 </figure>
 
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-2.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-2.jpg" width="40%">
 </figure>
