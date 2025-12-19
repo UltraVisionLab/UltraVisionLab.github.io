@@ -5,12 +5,8 @@ excerpt: "UltraVision+ Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
-
-
-<video src="{{ site.url }}{{ site.baseurl }}/images/picpic/ultra-vision+.mov" controls width="80%">
-  Your browser does not support the video tag.
+# Gallery
+<video src="{{ site.url }}{{ site.baseurl }}/images/picpic/ultra-vision+.mov" autoplay muted loop controls width="50%">
 </video>
 
 #### Gallery
