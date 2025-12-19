@@ -9,7 +9,7 @@ permalink: /pictures/
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
-<video src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/ultra-vision+.mov" controls width="80%">
+<video src="{{ site.url }}{{ site.baseurl }}/images/picpic/ultra-vision+.mov" controls width="80%">
   Your browser does not support the video tag.
 </video>
 
@@ -25,7 +25,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
