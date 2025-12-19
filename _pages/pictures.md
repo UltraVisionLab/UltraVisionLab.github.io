@@ -11,7 +11,7 @@ permalink: /pictures/
 
 ## CLEAR WATER BAY COUNTRY PARK 2025.12.15
 <div align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-1.jpg" width="45%"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-2.jpg" width="45%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-1.jpg" width="50%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-2.jpg" width="40%"/>
 </div>
 <br>
