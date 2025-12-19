@@ -9,8 +9,6 @@ permalink: /pictures/
 <video src="{{ site.url }}{{ site.baseurl }}/images/picpic/ultra-vision+.mov" autoplay muted loop controls width="50%">
 </video>
 
-#### Gallery
-
 ## CLEAR WATER BAY COUNTRY PARK 2025.12.15
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20251220-1.jpg" width="40%">
