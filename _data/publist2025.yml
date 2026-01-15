@@ -1,8 +1,3 @@
-- title: "<a href=\"\" target=\"_blank\"><strong>Sonomate: Visually grounded language model for fetal ultrasound understanding and human interaction</strong></a>"
-  authors: "**Xiaoqing Guo†**, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble."
-  display: "_Nature Biomedical Engineering_ (**NBME**), 2025."
-  highlight: 0
-
 - title: "<a href=\"https://www.nature.com/articles/s41746-025-02162-4\" target=\"_blank\"><strong>On the Public Dissemination and Open Sourcing of Ultrasound Resources, Datasets and Deep Learning Models</strong></a>"
   authors: "Mohammad Alsharid, **Xiaoqing Guo**, Qianhui Men, Pramit Saha, Divyanshu Mishra, Rahul Ahuja, Cheng Ouyang, Alison Noble."
   display: "_npj Digital Medicine_, 2025."
