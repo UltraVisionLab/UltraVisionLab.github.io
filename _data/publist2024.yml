@@ -4,7 +4,7 @@
   description: Medical imaging devices and variations between medical centers can result in domain shift, where images exhibit different styles and characteristics. In this paper, we aim to improve model performance when deploying an AI model trained in one medical center to new clinical scenarios. We reason that domain-adaptive classifier learning and domain-agnostic feature extraction are key components in single domain generalization, and further propose an adaptive infinite prototypes (InfProto) scheme to facilitate the learning of the two components. 
   authors: "**Xiaoqing Guo**, Jie Liu, Yixuan Yuan."
   display: "_International Journal of Computer Vision_ (**IJCV**), 2024."
-  highlight: 1
+  highlight: 0
 
 - title: "<a href=\"https://ieeexplore.ieee.org/document/10379649\" target=\"_blank\"><strong>Disentangle Then Calibrate with Gradient Guidance: A Unified Framework for Common and Rare Disease Diagnosis</strong></a>"
   authors: "Yuanyuan Chen, **Xiaoqing Guo**, Yong Xia, Yixuan Yuan."
