@@ -13,7 +13,7 @@
   display: "_Medical Image Analysis_ (**MedIA**), 2025."
   highlight: 0
 
-- title: "<a href=\"\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
+- title: "<a href=\"https://openaccess.thecvf.com/content/ICCV2025/html/Yu_GaussianReg_Rapid_2D3D_Registration_for_Emergency_Surgery_via_Explicit_3D_ICCV_2025_paper.html\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
   authors: "Weihao Yu, **Xiaoqing Guo**, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan."
   display: "_International Conference on Computer Vision_ (**ICCV 2025**), Honolulu, Hawaii."
   highlight: 0
@@ -23,7 +23,7 @@
   display: "_Information Processing in Medical Imaging_ (**IPMI 2025**), Kos Island."
   highlight: 0
 
-- title: "<a href=\"\" target=\"_blank\"><strong>Decoupled Representation Learning for Difference Medical Report Generation</strong></a>"
+- title: "<a href=\"https://ieeexplore.ieee.org/document/11252715\" target=\"_blank\"><strong>Decoupled Representation Learning for Difference Medical Report Generation</strong></a>"
   authors: "Chen Yang, **Xiaoqing Guo**, Yixuan Yuan."
   display: "_International Conference of the IEEE Engineering in Medicine and Biology Society_ (**EMBC 2025**), Copenhagen, Denmark."
   highlight: 0
