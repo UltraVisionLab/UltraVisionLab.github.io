@@ -15,7 +15,7 @@ In this page, you can find the our publications in [2025](#2025),  [2024](#2024)
 
 ## Highlights
 
-{% assign publist = site.data.publist2026 | site.data.publist2025 | concat: site.data.publist2024 %}
+{% assign publist = site.data.publist2026 | concat: site.data.publist2025 | concat: site.data.publist2024 %}
 {% assign number_printed = 0 %}
 {% for publi in publist %}
 
