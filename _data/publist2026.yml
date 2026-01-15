@@ -3,5 +3,5 @@
   image: Sonomate.png
   description: Ultrasound imaging is one of the most widely used diagnostic tools in prenatal care, but also one of the most operator dependent. Trainee sonographers often face steep learning curves, lack of confidence, and limited access to supervision in busy clinical settings. Sonomate aims to change this. It is a visually grounded language model that ‘listens’ to the sonographer's instructions, interprets real-time ultrasound video, and offers real-time assistance for instance, identifying fetal anatomies and standard planes, checking image quality, reminding clinicians of missed anatomical views or assessing sonographer’s skill. 
   authors: "**Xiaoqing Guo†**, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble."
-  display: "_Nature Biomedical Engineering_ (**NBME**), 2025."
+  display: "_Nature Biomedical Engineering_ (**NBME**), 2026."
   highlight: 1
