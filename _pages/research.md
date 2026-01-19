@@ -28,7 +28,7 @@ Ultrasound examinations generate complex, unstructured data in the form of video
 Freehand ultrasound examinations require significant clinical skill and are time-consuming. To support both learning and execution, we develop interactive AI systems that use natural language to provide real-time feedback and guidance during the scanning process. By integrating vision-language models trained on ultrasound data, we can respond to user queries, identify anatomical landmarks, and give step-by-step instructions. This approach empowers novice users to perform scans more confidently and allows experts to benefit from intelligent assistance in complex scenarios.
 
 **Relevant Publications:**
-* <a href="https://www.nature.com/articles/s41551-025-01578-3" target="_blank">A visually grounded language model for fetal ultrasound understanding</a> [Nature Biomedical Engineering’25]
+* <a href="https://www.nature.com/articles/s41551-025-01578-3" target="_blank">A visually grounded language model for fetal ultrasound understanding</a> [Nature Biomedical Engineering’26]
 * <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a>[In submission]
 
 ### *Sonography with Spatial Guidance*
