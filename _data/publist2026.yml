@@ -5,3 +5,12 @@
   authors: "**Xiaoqing Guo†**, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble."
   display: "_Nature Biomedical Engineering_ (**NBME**), 2026."
   highlight: 1
+
+
+- title: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
+  title1: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
+  image: U2Bench.png
+  description: We introduce U2-BENCH, the first comprehensive benchmark to evaluate LVLMs on ultrasound understanding across classification, detection, regression, and text generation tasks. U2-BENCH aggregates 7,241 cases spanning 15 anatomical regions and defines 8 clinically inspired tasks, such as diagnosis, view recognition, lesion localization, clinical value estimation, and report generation, across 50 ultrasound application scenarios. We evaluate 20 LVLMs on U2-BENCH. Our results reveal strong performance on image-level classification, but persistent challenges in spatial reasoning and clinical language generation.
+  authors: "Anjie Le, Henan Liu, Yue Wang, Zhenyu Liu, Rongkun Zhu, Taohan Weng, Jinze Yu, Boyang Wang, Yalun Wu, Kaiwen Yan, Quanlin Sun, Jialun Pei, Siya Liu, Haoyun Zheng, Zhoujun Li, Alison Noble, Jacques Souquet, **Xiaoqing Guo†**, Manxi Lin†, Hongcheng Guo†."
+  display: "_International Conference on Learning Representations_ (**ICLR**), 2026."
+  highlight: 1
