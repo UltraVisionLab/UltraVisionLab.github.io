@@ -31,7 +31,7 @@ In this page, you can find the our publications in [2026](#2026),  [2025](#2025)
   <pubtit>{{ publi.title1 }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
+  <p>{{ publi.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
   <p><strong>{{ publi.display }}</strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
