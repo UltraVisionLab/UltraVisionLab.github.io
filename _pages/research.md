@@ -21,7 +21,7 @@ Ultrasound examinations generate complex, unstructured data in the form of video
 
 **Relevant Publications:**
 * <a href="https://arxiv.org/abs/2408.03761" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a> [MICCAI'24]
-* <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a>[In submission]
+* <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a>[ICLR'26]
 
 ### *Sonography with Language Guidance*
 
@@ -29,7 +29,7 @@ Freehand ultrasound examinations require significant clinical skill and are time
 
 **Relevant Publications:**
 * <a href="https://www.nature.com/articles/s41551-025-01578-3" target="_blank">A visually grounded language model for fetal ultrasound understanding</a> [Nature Biomedical Engineering’26]
-* <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a>[In submission]
+* <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a>[ICLR'26]
 
 ### *Sonography with Spatial Guidance*
 
