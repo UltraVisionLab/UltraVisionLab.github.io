@@ -28,6 +28,11 @@
   display: "_International Conference of the IEEE Engineering in Medicine and Biology Society_ (**EMBC 2025**), Copenhagen, Denmark."
   highlight: 0
 
+- title: "<a href=\"\" target=\"_blank\"><strong>UterUS-CLIP: Semantic Similarity-Enhanced Vision-Language Model for Uterine Ultrasound in 5G Mobile Edge Computing</strong></a>"
+  authors: "Binbin Zhou, Jiayun Jin, Haolong Chai, Xueying Huang, **Xiaoqing Guo**, Zengwei Zheng, Jie Liu, Junmei Wang, Xinyu Wang."
+  display: "_15th EAI International Conference on Mobile Networks and Management_ (**MONAMI 2025**), Chongqing, China."
+  highlight: 0
+
 - title: "<a href=\"https://arxiv.org/abs/2509.25748\" target=\"_blank\"><strong>Dolphin v1.0 Technical Report</strong></a>"
   authors: "Taohan Weng, Kaibing Hu, Henan Liu, Siya Liu, Xiaoyang Liu, Zhenyu Liu, Jiren Ren, Boyan Wang, Boyang Wang, Yiyu Wang, Yalun Wu, Chaoran Yan, Kaiwen Yan, Jinze Yu, Chi Zhang, Duo Zhang, Haoyun Zheng, **Xiaoqing Guo**, Jacques Souquet, Hongcheng Guo, Anjie Le."
   display: "Initial submission, 2025."
