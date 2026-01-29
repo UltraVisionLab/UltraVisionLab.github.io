@@ -31,18 +31,6 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Sonomate.png" alt="Slide 4" />
         </div>       
-        <!-- <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/noisy_labeled_data.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cross_domain_data.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/massive_unlabeled_data.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/scarce_labeled_data.png" alt="Slide 5" />
-        </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
