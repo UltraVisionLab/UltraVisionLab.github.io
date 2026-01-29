@@ -10,7 +10,7 @@
 
 - title: "<a href=\"https://www.sciencedirect.com/science/article/pii/S1361841525003093\" target=\"_blank\"><strong>IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR</strong></a>"
   authors: "Ziyun Liang, **Xiaoqing Guo**, Wentian Xu, Yasin Ibrahim, Natalie Voets, Pieter M Pretorius, Alzheimer’s Disease Neuroimaging Initiative, Alison Noble, Konstantinos Kamnitsas."
-  display: "_Medical Image Analysis_ (**MedIA**), 2025."
+  display: "_Medical Image Analysis_ (**MedIA**), 2025. **MedIA-MICCAI Best Paper Award**"
   highlight: 0
 
 - title: "<a href=\"https://openaccess.thecvf.com/content/ICCV2025/html/Yu_GaussianReg_Rapid_2D3D_Registration_for_Emergency_Surgery_via_Explicit_3D_ICCV_2025_paper.html\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
