@@ -49,3 +49,8 @@
   authors: "Yicheng Wu, Xiangde Luo, Zhe Xu, Xiaoqing Guo, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai."
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR 2024**), Seattle, USA."
   highlight: 0
+
+- title: "<a href=\"https://arxiv.org/abs/2503.23806\" target=\"_blank\"><strong>Bridge the Gap Between Visual and Linguistic Comprehension for Generalized Zero-shot Semantic Segmentation</strong></a>"
+  authors: "Xiaoqing Guo*, Wuyang Li*, Yixuan Yuan."
+  display: "arXiv"
+  highlight: 0
