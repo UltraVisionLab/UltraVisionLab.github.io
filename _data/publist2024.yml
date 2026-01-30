@@ -2,22 +2,22 @@
   title1: "<a href=\"https://link.springer.com/article/10.1007/s11263-024-02158-9#Abs1\" target=\"_blank\"><strong>Infproto-powered Adaptive Classifier and Agnostic Feature Learning for Single Domain Generalization in Medical Images</strong></a>"
   image: InfProto.png
   description: Medical imaging devices and variations between medical centers can result in domain shift, where images exhibit different styles and characteristics. In this paper, we aim to improve model performance when deploying an AI model trained in one medical center to new clinical scenarios. We reason that domain-adaptive classifier learning and domain-agnostic feature extraction are key components in single domain generalization, and further propose an adaptive infinite prototypes (InfProto) scheme to facilitate the learning of the two components. 
-  authors: "**Xiaoqing Guo**, Jie Liu, Yixuan Yuan."
+  authors: "Xiaoqing Guo, Jie Liu, Yixuan Yuan."
   display: "_International Journal of Computer Vision_ (**IJCV**), 2024."
   highlight: 0
 
 - title: "<a href=\"https://ieeexplore.ieee.org/document/10379649\" target=\"_blank\"><strong>Disentangle Then Calibrate with Gradient Guidance: A Unified Framework for Common and Rare Disease Diagnosis</strong></a>"
-  authors: "Yuanyuan Chen, **Xiaoqing Guo**, Yong Xia, Yixuan Yuan."
+  authors: "Yuanyuan Chen, Xiaoqing Guo, Yong Xia, Yixuan Yuan."
   display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2024."
   highlight: 0
 
 - title: "<a href=\"https://www.nature.com/articles/s41586-024-07078-9\" target=\"_blank\"><strong>Integrated Lithium Niobate Microwave Photonic Processing Engine</strong></a> [<a href=\"https://www.cityu.edu.hk/media/news/2024/02/29/cityuhk-develops-world-leading-microwave-photonics-chip-ultrahigh-speed-signal-processing\" target=\"_blank\">CityU News</a>]"
-  authors: "Hanke Feng<sup>*</sup>, Tong Ge<sup>*</sup>, **Xiaoqing Guo**, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang."
+  authors: "Hanke Feng<sup>*</sup>, Tong Ge<sup>*</sup>, Xiaoqing Guo, Benshan Wang, Yiwen Zhang, Zhaoxi Chen, Sha Zhu, Ke Zhang, Wenzhao Sun, Chaoran Huang, Yixuan Yuan, Cheng Wang."
   display: "**Nature**, 2024."
   highlight: 0
 
 - title: "<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0957417424009643?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=215584584&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM469036&utm_medium=email&utm_source=AC_\" target=\"_blank\"><strong>Dynamic Attribute-guided Few-shot Open-set Network for Medical Image Diagnosis</strong></a>"
-  authors: "Yiwen Luo, **Xiaoqing Guo**, Li Liu, Yixuan Yuan."
+  authors: "Yiwen Luo, Xiaoqing Guo, Li Liu, Yixuan Yuan."
   display: "_Expert Systems With Applications_, 2024."
   highlight: 0
 
@@ -25,7 +25,7 @@
   title1: "<a href=\"https://arxiv.org/abs/2408.03761\" target=\"_blank\"><strong>MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</strong></a>"
   image: mmsummary.png
   description: MMSummary is the first automated multimodal summary generation system for medical imaging video, particularly with a focus on fetal ultrasound analysis. Imitating the examination process performed by a human sonographer, MMSummary is designed as a three-stage pipeline, progressing from keyframe detection to keyframe captioning and finally anatomy segmentation and measurement. This system provides comprehensive summaries for fetal ultrasound examinations to enhance clinical workflow efficiency (reduce scanning time by approximately 1/3%).
-  authors: "**Xiaoqing Guo†**, Qianhui Men, Alison Noble."
+  authors: "Xiaoqing Guo†, Qianhui Men, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
   highlight: 1
 
@@ -33,7 +33,7 @@
   title1: "<a href=\"https://arxiv.org/abs/2408.09931\" target=\"_blank\"><strong>Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</strong></a>"
   image: Pose-GuideNet.png
   description: We investigate how estimating 3D fetal pose from freehand 2D ultrasound scanning can guide a sonographer to locate a head standard plane. Fetal head pose is estimated by the proposed Pose-GuideNet, a novel 2D/3D registration approach to align freehand 2D ultrasound to a 3D anatomical atlas without the acquisition of 3D ultrasound. Evaluations with probe motions demonstrate the feasibility of adopting Pose-GuideNet for freehand ultrasound-assisted navigation in a sensor-free environment.
-  authors: "Qianhui Men, **Xiaoqing Guo**, Aris Papageorghiou, Alison Noble."
+  authors: "Qianhui Men, Xiaoqing Guo, Aris Papageorghiou, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
   highlight: 1
 
@@ -41,11 +41,11 @@
   title1: "<a href=\"https://arxiv.org/abs/2406.02422\" target=\"_blank\"><strong>IterMask^2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI</strong></a>"
   image: IterMask2.png
   description: We propose an anomaly detection framework, IterMask2, designed to identify unexpected inputs for enhanced safeguards. We also introduce an iterative approach to reveal the AI model’s decision-making process, helping clinicians understand the model’s outcomes. Clinicians can review the generated results and select the ones they find most accurate. With this human-in-the-loop approach, the model’s performance is significantly improved, making it more effective for deployment in real clinical settings.
-  authors: "Ziyun Liang, **Xiaoqing Guo**, Alison Noble, Konstantinos Kamnitsas."
+  authors: "Ziyun Liang, Xiaoqing Guo, Alison Noble, Konstantinos Kamnitsas."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI 2024**), Marrakesh, Morocco."
   highlight: 0
 
 - title: "<a href=\"https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Diversified_and_Personalized_Multi-rater_Medical_Image_Segmentation_CVPR_2024_paper.html\" target=\"_blank\"><strong>Diversified and Personalized Multi-rater Medical Image Segmentation</strong></a> [<a href=\"https://github.com/ycwu1997/D-Persona\" target=\"_blank\">code</a>] <strong>(Highlight)</strong>"
-  authors: "Yicheng Wu, Xiangde Luo, Zhe Xu, **Xiaoqing Guo**, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai."
+  authors: "Yicheng Wu, Xiangde Luo, Zhe Xu, Xiaoqing Guo, Lie Ju, Zongyuan Ge, Wenjun Liao, Jianfei Cai."
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR 2024**), Seattle, USA."
   highlight: 0
