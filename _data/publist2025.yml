@@ -1,39 +1,39 @@
 - title: "<a href=\"https://www.nature.com/articles/s41746-025-02162-4\" target=\"_blank\"><strong>On the Public Dissemination and Open Sourcing of Ultrasound Resources, Datasets and Deep Learning Models</strong></a>"
-  authors: "Mohammad Alsharid, **Xiaoqing Guo**, Qianhui Men, Pramit Saha, Divyanshu Mishra, Rahul Ahuja, Cheng Ouyang, Alison Noble."
+  authors: "Mohammad Alsharid, Xiaoqing Guo, Qianhui Men, Pramit Saha, Divyanshu Mishra, Rahul Ahuja, Cheng Ouyang, Alison Noble."
   display: "_npj Digital Medicine_, 2025."
   highlight: 0
   
 - title: "<a href=\"https://ieeexplore.ieee.org/document/11098750\" target=\"_blank\"><strong>ToothMaker: Realistic Panoramic Dental Radiograph Generation via Disentangled Control</strong></a>"
-  authors: "Weihao Yu, **Xiaoqing Guo**, Wuyang Li, Xinyu Liu, Hui Chen, Yixuan Yuan."
+  authors: "Weihao Yu, Xiaoqing Guo, Wuyang Li, Xinyu Liu, Hui Chen, Yixuan Yuan."
   display: "_IEEE Transactions on Medical Imaging_ (**IEEE TMI**), 2025."
   highlight: 0
 
 - title: "<a href=\"https://www.sciencedirect.com/science/article/pii/S1361841525003093\" target=\"_blank\"><strong>IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR</strong></a>"
-  authors: "Ziyun Liang, **Xiaoqing Guo**, Wentian Xu, Yasin Ibrahim, Natalie Voets, Pieter M Pretorius, Alzheimer’s Disease Neuroimaging Initiative, Alison Noble, Konstantinos Kamnitsas."
+  authors: "Ziyun Liang, Xiaoqing Guo, Wentian Xu, Yasin Ibrahim, Natalie Voets, Pieter M Pretorius, Alzheimer’s Disease Neuroimaging Initiative, Alison Noble, Konstantinos Kamnitsas."
   display: "_Medical Image Analysis_ (**MedIA**), 2025. **MedIA-MICCAI Best Paper Award**"
   highlight: 0
 
 - title: "<a href=\"https://openaccess.thecvf.com/content/ICCV2025/html/Yu_GaussianReg_Rapid_2D3D_Registration_for_Emergency_Surgery_via_Explicit_3D_ICCV_2025_paper.html\" target=\"_blank\"><strong>GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives</strong></a>"
-  authors: "Weihao Yu, **Xiaoqing Guo**, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan."
+  authors: "Weihao Yu, Xiaoqing Guo, Xinyu Liu, Yifan Liu, Hao Zheng, Yawen Huang, Yixuan Yuan."
   display: "_International Conference on Computer Vision_ (**ICCV 2025**), Honolulu, Hawaii."
   highlight: 0
 
 - title: "<a href=\"https://link.springer.com/chapter/10.1007/978-3-031-96628-6_21\" target=\"_blank\"><strong>GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation</strong></a>"
-  authors: "Weihao Yu, **Xiaoqing Guo**, Chenxin Li, Yifan Liu, Yixuan Yuan."
+  authors: "Weihao Yu, Xiaoqing Guo, Chenxin Li, Yifan Liu, Yixuan Yuan."
   display: "_Information Processing in Medical Imaging_ (**IPMI 2025**), Kos Island."
   highlight: 0
 
 - title: "<a href=\"https://ieeexplore.ieee.org/document/11252715\" target=\"_blank\"><strong>Decoupled Representation Learning for Difference Medical Report Generation</strong></a>"
-  authors: "Chen Yang, **Xiaoqing Guo**, Yixuan Yuan."
+  authors: "Chen Yang, Xiaoqing Guo, Yixuan Yuan."
   display: "_International Conference of the IEEE Engineering in Medicine and Biology Society_ (**EMBC 2025**), Copenhagen, Denmark."
   highlight: 0
 
 - title: "<a href=\"\" target=\"_blank\"><strong>UterUS-CLIP: Semantic Similarity-Enhanced Vision-Language Model for Uterine Ultrasound in 5G Mobile Edge Computing</strong></a>"
-  authors: "Binbin Zhou, Jiayun Jin, Haolong Chai, Xueying Huang, **Xiaoqing Guo**, Zengwei Zheng, Jie Liu, Junmei Wang, Xinyu Wang."
+  authors: "Binbin Zhou, Jiayun Jin, Haolong Chai, Xueying Huang, Xiaoqing Guo, Zengwei Zheng, Jie Liu, Junmei Wang, Xinyu Wang."
   display: "_15th EAI International Conference on Mobile Networks and Management_ (**MONAMI 2025**), Chongqing, China. **Best Paper Award**"
   highlight: 0
 
 - title: "<a href=\"https://arxiv.org/abs/2509.25748\" target=\"_blank\"><strong>Dolphin v1.0 Technical Report</strong></a>"
-  authors: "Taohan Weng, Kaibing Hu, Henan Liu, Siya Liu, Xiaoyang Liu, Zhenyu Liu, Jiren Ren, Boyan Wang, Boyang Wang, Yiyu Wang, Yalun Wu, Chaoran Yan, Kaiwen Yan, Jinze Yu, Chi Zhang, Duo Zhang, Haoyun Zheng, **Xiaoqing Guo**, Jacques Souquet, Hongcheng Guo, Anjie Le."
+  authors: "Taohan Weng, Kaibing Hu, Henan Liu, Siya Liu, Xiaoyang Liu, Zhenyu Liu, Jiren Ren, Boyan Wang, Boyang Wang, Yiyu Wang, Yalun Wu, Chaoran Yan, Kaiwen Yan, Jinze Yu, Chi Zhang, Duo Zhang, Haoyun Zheng, Xiaoqing Guo, Jacques Souquet, Hongcheng Guo, Anjie Le."
   display: "Initial submission, 2025."
   highlight: 0
