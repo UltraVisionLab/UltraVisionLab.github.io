@@ -2,7 +2,7 @@
   title1: "<a href=\"https://www.nature.com/articles/s41551-025-01578-3\" target=\"_blank\"><strong>A visually grounded language model for fetal ultrasound understanding</strong></a>"
   image: Sonomate.png
   description: Ultrasound imaging is one of the most widely used diagnostic tools in prenatal care, but also one of the most operator dependent. Trainee sonographers often face steep learning curves, lack of confidence, and limited access to supervision in busy clinical settings. Sonomate aims to change this. It is a visually grounded language model that ‘listens’ to the sonographer's instructions, interprets real-time ultrasound video, and offers real-time assistance for instance, identifying fetal anatomies and standard planes, checking image quality, reminding clinicians of missed anatomical views or assessing sonographer’s skill. 
-  authors: "**Xiaoqing Guo†**, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble."
+  authors: "Xiaoqing Guo†, Mohammad Alsharid, He Zhao, Yipei Wang, Jayne Lander, Aris T. Papageorghiou, Alison Noble."
   display: "_Nature Biomedical Engineering_ (**NBME**), 2026."
   highlight: 1
 
@@ -11,6 +11,6 @@
   title1: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   image: U2Bench.png
   description: U2-BENCH is the first comprehensive benchmark to evaluate LVLMs on ultrasound understanding. U2-BENCH aggregates 7,241 cases spanning 15 anatomical regions and defines 8 clinically inspired tasks, such as diagnosis, view recognition, lesion localization, clinical value estimation, and report generation, across 50 ultrasound application scenarios. Our results reveal strong performance on image-level classification, but persistent challenges in spatial reasoning and clinical language generation.
-  authors: "Anjie Le, Henan Liu, Yue Wang, Zhenyu Liu, Rongkun Zhu, Taohan Weng, Jinze Yu, Boyang Wang, Yalun Wu, Kaiwen Yan, Quanlin Sun, Jialun Pei, Siya Liu, Haoyun Zheng, Zhoujun Li, Alison Noble, Jacques Souquet, **Xiaoqing Guo†**, Manxi Lin†, Hongcheng Guo†."
+  authors: "Anjie Le, Henan Liu, Yue Wang, Zhenyu Liu, Rongkun Zhu, Taohan Weng, Jinze Yu, Boyang Wang, Yalun Wu, Kaiwen Yan, Quanlin Sun, Jialun Pei, Siya Liu, Haoyun Zheng, Zhoujun Li, Alison Noble, Jacques Souquet, Xiaoqing Guo†, Manxi Lin†, Hongcheng Guo†."
   display: "_International Conference on Learning Representations_ (**ICLR**), 2026, Rio de Janeiro, Brazil."
   highlight: 1
