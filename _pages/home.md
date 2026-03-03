@@ -55,7 +55,7 @@ Welcome to **UltraVision+ Lab** at the Department of Computer Science of Hong Ko
 * Data-centric AI to handle imperfect data problems in real-word deployment.
 
 **We are looking for passionate PhD, RA, and Intern students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+**<span style="color:red;">We still have PhD quota (updated on 3rd March 2026)!</span>**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icon_UltraVision.png" style="width: 120px">
