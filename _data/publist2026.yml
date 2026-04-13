@@ -20,7 +20,7 @@
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2026, Denver, USA."
   highlight: 0
 
-- title: "<a href=\"\" target=\"_blank\"><strong>Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding</strong></a>"
+- title: "<a href=\"https://arxiv.org/pdf/2604.01749\" target=\"_blank\"><strong>Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding</strong></a>"
   authors: "Jiayun Jin, Haolong Chai, Xueying Huang, Xiaoqing Guo, Zengwei Zheng, Zhan Zhou, Junmei Wang, Xinyu Wang, Jie Liu, Binbin Zhou."
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2026, Denver, USA."
   highlight: 0
