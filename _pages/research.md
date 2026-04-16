@@ -22,6 +22,7 @@ Ultrasound examinations generate complex, unstructured data in the form of video
 **Relevant Publications:**
 * <a href="https://arxiv.org/abs/2408.03761" target="_blank">MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video</a> [MICCAI'24]
 * <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a> [ICLR'26]
+* <a href="https://arxiv.org/pdf/2604.01749" target="_blank">Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding</a> [CVPR'26]
 
 ### *Sonography with Language Guidance*
 
