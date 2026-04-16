@@ -15,6 +15,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -31,6 +32,9 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/U2Bench.png" alt="Slide 4" />
         </div>            
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Ultrasound-CLIP.png" alt="Slide 5" />
+        </div>  
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
