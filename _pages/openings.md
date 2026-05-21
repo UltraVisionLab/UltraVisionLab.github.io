@@ -35,8 +35,6 @@ We are seeking talented and highly motivated PhD students to join us.
 
 * Teamwork and Communication: Ability to collaborate effectively in a multidisciplinary environment.
 
-### Application
-
 If you have an interest in joining our lab, please do not hesitate to contact me at xiaoqingguo at hkbu dot edu dot hk with the follows:
 
 * Curriculum Vitae (CV)
