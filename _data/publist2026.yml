@@ -6,7 +6,6 @@
   display: "_Nature Biomedical Engineering_ (**NBME**), 2026."
   highlight: 1
 
-
 - title: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   title1: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   image: U2Bench.png
@@ -15,13 +14,13 @@
   display: "_International Conference on Learning Representations_ (**ICLR**), 2026, Rio de Janeiro, Brazil."
   highlight: 1
 
-- title: "<a href=\"https://arxiv.org/abs/2509.22496\" target=\"_blank\"><strong>Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation</strong></a>"
-  authors: "Ruoyu Chen, Xiaoqing Guo, Kangwei Liu, Siyuan Liang, Shiming Liu, Qunli Zhang, Laiyuan Wang, Hua Zhang, Xiaochun Cao."
+- title: "<a href=\"https://arxiv.org/pdf/2604.01749\" target=\"_blank\"><strong>Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding</strong></a>"
+  authors: "Jiayun Jin, Haolong Chai, Xueying Huang, Xiaoqing Guo, Zengwei Zheng, Zhan Zhou, Junmei Wang, Xinyu Wang, Jie Liu, Binbin Zhou."
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2026, Denver, USA."
   highlight: 0
 
-- title: "<a href=\"https://arxiv.org/pdf/2604.01749\" target=\"_blank\"><strong>Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding</strong></a>"
-  authors: "Jiayun Jin, Haolong Chai, Xueying Huang, Xiaoqing Guo, Zengwei Zheng, Zhan Zhou, Junmei Wang, Xinyu Wang, Jie Liu, Binbin Zhou."
+- title: "<a href=\"https://arxiv.org/abs/2509.22496\" target=\"_blank\"><strong>Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation</strong></a>"
+  authors: "Ruoyu Chen, Xiaoqing Guo, Kangwei Liu, Siyuan Liang, Shiming Liu, Qunli Zhang, Laiyuan Wang, Hua Zhang, Xiaochun Cao."
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2026, Denver, USA."
   highlight: 0
 
@@ -33,4 +32,10 @@
 - title: "<a href=\"\" target=\"_blank\"><strong>FOCUS: Towards Fetal Obstetric Corrective UltraSound Guidance</strong></a>"
   authors: "Hala Lamdouar, Angela Feixue Wang, Xiaoqing Guo, Qianhui Men, Jayne Lander, Aris Papageorghiou, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI**), 2026, Strasbourg, France."
+  highlight: 0
+
+
+- title: "<a href=\"https://ieeexplore.ieee.org/document/11598833\" target=\"_blank\"><strong>PIPA: Prior-Driven Prompting with Diagnosis-Oriented Retrieval-Augmentation for 3D Radiology Report Generation</strong></a>"
+  authors: "Qiushi Yang, Wuyang Li, Xiaoqing Guo, Maymay Cerys Harwood, Peter Y. M. Woo, Jingyang Zhang, Yang Chen, Ke Zhang, Yixuan Yuan."
+  display: "_IEEE Transactions on Medical Imaging_ (**TMI**), 2026."
   highlight: 0
