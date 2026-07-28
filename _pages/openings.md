@@ -47,7 +47,7 @@ If you have an interest in joining our lab, please do not hesitate to contact me
 
 ### Information for Postdocs
 
-We can offer opportunities for Postdocs, If you are interested, please email me with your CV, research papers or project reports that are relevant.
+<!-- We can offer opportunities for Postdocs, If you are interested, please email me with your CV, research papers or project reports that are relevant. -->
 
 <!-- In addition to PhD positions, we also offer opportunities for research assistants and visiting students. If you are interested, please email me with your CV, research papers or project reports that are relevant.  -->
 
