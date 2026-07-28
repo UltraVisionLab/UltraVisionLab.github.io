@@ -45,7 +45,7 @@ If you have an interest in joining our lab, please do not hesitate to contact me
 
 * 1-Page Research Statement: Summarize your research interests, relevant experience, and future research goals. Explain how your skills and experience align with the selection criteria for this position, using specific examples where possible.
 
-### Information for Postdocs
+<!-- ### Information for Postdocs -->
 
 <!-- We can offer opportunities for Postdocs, If you are interested, please email me with your CV, research papers or project reports that are relevant. -->
 
