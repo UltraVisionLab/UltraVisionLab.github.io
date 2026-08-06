@@ -14,7 +14,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently accepting applications for PhD positions.**
+**We are currently accepting applications for PhD positions.** You can refer to <a href="[https://ultravisionlab.github.io/](https://gs.hkbu.edu.hk/admission)" target="_blank">**Research Postgraduate Opportunities at HKBU**</a> for scholarship information.
 
 The UltraVision+ Lab in the Department of Computer Science, Hong Kong Baptist University (HKBU) has multiple openings for PhD students. Our lab is committed to interdisciplinary research at the intersection of AI, medical image analysis, computer vision, ultrasound data, multimodal learning. We welcome passionate and self-motivated individuals to join us in this exciting journey!
 
