@@ -49,6 +49,6 @@ If you have an interest in joining our lab, please do not hesitate to contact me
 
 <!-- We can offer opportunities for Postdocs, If you are interested, please email me with your CV, research papers or project reports that are relevant. -->
 
-<!-- In addition to PhD positions, we also offer opportunities for research assistants and visiting students. If you are interested, please email me with your CV, research papers or project reports that are relevant.  -->
+In addition to PhD positions, we also offer opportunities for research assistants in the field of 3D spatial intelligence. If you are interested, please email me with your CV and research papers that are relevant.
 
-<!-- Note: I usually do not have time to answer each message individually, so don't feel discouraged if you don't get a reply. Furthermore, I can only make recommendations for admissions after receiving all the applications. -->
+Note: I usually do not have time to answer each message individually, so don't feel discouraged if you don't get a reply. Furthermore, I can only make recommendations for admissions after receiving all the applications.
