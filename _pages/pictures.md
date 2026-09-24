@@ -16,8 +16,8 @@ permalink: /pictures/
 </div>
 
 <div align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20260924-3.jpg" height="255"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20260924-4.jpg" height="255"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20260924-3.jpg" height="270"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GroupPhoto20260924-4.jpg" height="270"/>
 </div>
 
 ## CLEAR WATER BAY COUNTRY PARK
