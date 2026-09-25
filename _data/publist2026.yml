@@ -29,16 +29,26 @@
   display: "_IEEE Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2026, Denver, USA."
   highlight: 0
 
-- title: "<a href=\"\" target=\"_blank\"><strong>Research Design Considerations for Empirical User Studies in MICCAI</strong></a> <strong>(Early Accept, Oral)</strong>"
+- title: "<a href=\"https://papers.miccai.org/miccai-2026/0883-Paper6182.html\" target=\"_blank\"><strong>Research Design Considerations for Empirical User Studies in MICCAI</strong></a> <strong>(Early Accept, Oral)</strong>"
   authors: "Catalina Gomez, Sue Min Cho, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, Seong Tae Kim, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI**), 2026, Strasbourg, France."
   highlight: 0
 
-- title: "<a href=\"\" target=\"_blank\"><strong>FOCUS: Towards Fetal Obstetric Corrective UltraSound Guidance</strong></a> <strong>(Spotlight)</strong>"
+- title: "<a href=\"https://papers.miccai.org/miccai-2026/0390-Paper1799.html\" target=\"_blank\"><strong>FOCUS: Towards Fetal Obstetric Corrective UltraSound Guidance</strong></a> <strong>(Spotlight)</strong>"
   authors: "Hala Lamdouar, Angela Feixue Wang, Xiaoqing Guo, Qianhui Men, Jayne Lander, Aris Papageorghiou, Alison Noble."
   display: "_International Conference on Medical Image Computing and Computer Assisted Intervention_ (**MICCAI**), 2026, Strasbourg, France."
   highlight: 0
 
+- title: "<a href=\"\" target=\"_blank\"><strong>It’s Time to Talk Human-Centered Research at MICCAI</strong></a> <strong>(Spotlight)</strong>"
+  authors: "Sue Min Cho, Catalina Gomez, Katharina Breininger, Francis X Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten-Oertel, Seong Tae Kim, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A Zuluaga, Mathias Unberath."
+  display: "_The 2nd MICCAI Workshop on Human-AI Collaboration_ (**HAIC**), 2026, Strasbourg, France."
+  highlight: 0
+
+- title: "<a href=\"\" target=\"_blank\"><strong>Rethinking Ultrasound Datasets via Clinical Human-AI Collaboration Tiers</strong></a>"
+  authors: "Siyuan He, Qianhui Men, Cheng Ouyang, Mathias Unberath, Alison Noble, Xiaoqing Guo†."
+  display: "_The 2nd MICCAI Workshop on Human-AI Collaboration_ (**HAIC**), 2026, Strasbourg, France."
+  highlight: 0
+    
 - title: "<a href=\"https://ieeexplore.ieee.org/document/11598833\" target=\"_blank\"><strong>PIPA: Prior-Driven Prompting with Diagnosis-Oriented Retrieval-Augmentation for 3D Radiology Report Generation</strong></a>"
   authors: "Qiushi Yang, Wuyang Li, Xiaoqing Guo, Maymay Cerys Harwood, Peter Y. M. Woo, Jingyang Zhang, Yang Chen, Ke Zhang, Yixuan Yuan."
   display: "_IEEE Transactions on Medical Imaging_ (**TMI**), 2026."
