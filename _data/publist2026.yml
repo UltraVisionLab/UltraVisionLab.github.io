@@ -6,6 +6,11 @@
   display: "_Nature Biomedical Engineering_ (**NBME**), 2026."
   highlight: 1
 
+- title: "<a href=\"\" target=\"_blank\"><strong>UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction</strong></a>"
+  authors: "Yue Wang, Haoxin Chen, Xiaoqing Guo†."
+  display: "_The Fortieth Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2026."
+  highlight: 0
+
 - title: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   title1: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   image: U2Bench.png
