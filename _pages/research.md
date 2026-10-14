@@ -30,6 +30,7 @@ Freehand ultrasound examinations require significant clinical skill and are time
 
 **Relevant Publications:**
 * <a href="https://www.nature.com/articles/s41551-025-01578-3" target="_blank">A visually grounded language model for fetal ultrasound understanding</a> [Nature Biomedical Engineering’26]
+* <a href="https://papers.miccai.org/miccai-2026/0390-Paper1799.html" target="_blank">FOCUS: Towards Fetal Obstetric Corrective UltraSound Guidance</a> [MICCAI'26]
 * <a href="https://arxiv.org/abs/2505.17779" target="_blank">U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</a> [ICLR'26]
 
 ### *Sonography with Spatial Guidance*
@@ -37,6 +38,7 @@ Freehand ultrasound examinations require significant clinical skill and are time
 Accurate ultrasound imaging depends heavily on the operator's ability to correctly position and manipulate the probe. This research focuses on incorporating spatial intelligence into AI systems that can guide or automate probe movements during scanning. By modeling expert scanning behaviors using pose estimation and motion feedback, we aim to develop systems that assist users in acquiring standard views and maintaining spatial consistency. These tools reduce inter-operator variability and enable more efficient, reproducible scans, especially in high-demand or low-resource clinical settings.
 
 **Relevant Publications:**
+* <a href="" target="_blank">UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction</a> [NeurIPS'26]
 * <a href="https://arxiv.org/abs/2408.09931" target="_blank">Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation</a> [MICCAI'24]
 
 ## Project
