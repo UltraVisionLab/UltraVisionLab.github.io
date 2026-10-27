@@ -11,6 +11,11 @@
   display: "_Nature Biomedical Engineering_ (**NBME**), 2026."
   highlight: 1
 
+- title: "<a href=\"https://pubmed.ncbi.nlm.nih.gov/42927975/\" target=\"_blank\"><strong>Clinical Application of Artificial Intelligence in the Management of Chronic Hepatitis B</strong></a>"
+  authors: "Jimmy Che-To Lai*, Xiaoqing Guo*, Xinyan Zong*, Nana Peng, Terry Cheuk-Fung Yip, Vincent Wai-Sun Wong, Pong-Chi Yuen, Grace Lai-Hung Wong."
+  display: "_Journal of Gastroenterology and Hepatology_, 2026."
+  highlight: 0
+
 - title: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   title1: "<a href=\"https://arxiv.org/abs/2505.17779\" target=\"_blank\"><strong>U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding</strong></a>"
   image: U2Bench.png
